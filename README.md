@@ -27,6 +27,7 @@ The ecosystem processes raw reconnaissance imagery across four modular operation
 
 ### 1. Auto-Calibration (Hierarchy of Rulers)
 To render real-world measurements on arbitrary satellite feeds without spatial metadata, the engine ranks object reliability:
+
 $$\text{Priority Ranking: } P(\text{Warship}) > P(\text{Aircraft}) > P(\text{Tank}) > P(\text{Truck}) > P(\text{Soldier})$$
 
 Organic or pose-variant signatures (like personnel) inherit lower priority weights, while fixed-wing frame spans or combat vessel profiles act as baseline rulers. The isolated configuration establishes a unified global scale coefficient ($S_{global}$):
@@ -94,4 +95,29 @@ SENTINEL/
 ├── app.py                                  # Core Dashboard Application Code
 ├── requirements.txt                        # Unified Dependency Blueprint
 └── README.md                               # Operational Readme File
-👥 The Development Team (ASHUSUM)Ashirwad SinhaSumit Pandey@ashir1S@5umitpandey
+```
+
+---
+
+<div align="center">
+
+## 👥 Team
+
+**Team Name**: ASHSUM
+
+**Team Members**:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ashir1s.png" width="150px;" alt="Ashirwad Sinha"/><br/>
+      <a href="https://github.com/ashir1s">Ashirwad Sinha</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/5umitpandey.png" width="150px;" alt="Sumit Pandey"/><br/>
+      <a href="https://github.com/5umitpandey">Sumit Pandey</a>
+    </td>
+  </tr>
+</table>
+
+</div>
