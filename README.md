@@ -96,7 +96,7 @@ SENTINEL/
 ├── requirements.txt                        # Unified Dependency Blueprint
 └── README.md                               # Operational Readme File
 ```
-
+#### PPT: https://gamma.app/docs/SENTINEL-c8psx2v8tqwc2tg
 ---
 
 <div align="center">
